@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Nils Schmidt 👋
 
-<!--
-**duk7292/duk7292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👦 I'm 16 years old  
+💻 Coding in my free time for nearly three years  
+🤖 Currently expanding my knowledge in Artificial Intelligence  
+🌱 Actively seeking a one-year internship opportunity  
+🔍 Love to learn new things and experiment with new technologies  
+🏠 Grevenbroich, Germany  
 
-Here are some ideas to get you started:
+## Technologies and Programming Languages
+- Python
+- Java
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📧 Email: nils_schmidt07@yahoo.con
+- 🌐 [Portfolio:](https://duk7292.github.io/dev_portfolio/#/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nils-schmidt-87ba52297/)
+
+<!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername) ---> 
