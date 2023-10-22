@@ -6,7 +6,7 @@
 🤖 Currently expanding my knowledge in Artificial Intelligence  
 🌱 Actively seeking a one-year internship opportunity  
 🔍 Love to learn new things and experiment with new technologies  
-🏠 Grevenbroich, Germany  
+🏠 Düsseldorf, Germany  
 
 ## Technologies and Programming Languages
 - Python
