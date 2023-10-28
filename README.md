@@ -15,7 +15,7 @@
 - Tenserflow
 ## Contact
 - 📧 Email: nils_schmidt07@yahoo.con
-- 🌐 [Portfolio](https://duk7292.github.io/dev_portfolio/#/)
+- 🌐 [Portfolio](https://duk7292.github.io/portfolio/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nils-schmidt-87ba52297/)
 
 <!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername) ---> 
